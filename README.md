@@ -2,8 +2,8 @@
 
 In this notebook, we discuss the following two techniques of python programming.
 - Passing multiple arguments to a function
-- OOP and single inheritance
-- OOP with Methods using \*args and \**kwargs
+- Object-Oriented Programming (OOP) and single inheritance
+- OOP with methods that use \*args and \**kwargs to pass arguments
 
 
 ## Passing Multiple Arguments to a Function
